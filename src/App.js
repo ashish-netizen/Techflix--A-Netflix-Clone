@@ -23,7 +23,7 @@ function App() {
       <Row title="Horror Moves" fetchUrl={requests.fetchHorrorMovies} />
       <Row title=" Romance Movies " fetchUrl={requests.fetchRomanceMovies} />
       <Row title=" Doocumentaries " fetchUrl={requests.fetchDocumentaries} />
-
+<div className="text-center"> <a href=" https://www.techgecs.in/" target="_blank">Made By Techgecs</a></div>
     </div>
   );
 }
